@@ -9,3 +9,6 @@ impl liquid
 
 // Implementation for RGB
 impl rgb
+
+// Implementation
+impl swap
