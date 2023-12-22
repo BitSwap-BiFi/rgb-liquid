@@ -4,6 +4,8 @@
 
 PoC for RGB and Liquid on DEX
 
+Based on RGB Core v0.11
+
 ## How works
 
 Soon
