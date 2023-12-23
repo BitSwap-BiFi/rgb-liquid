@@ -1,4 +1,4 @@
-# RGB & Liquid 
+# RGB & Liquid 🌊 🔴🟢🔵
 
 ⚠️**Study proposal**
 
