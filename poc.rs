@@ -10,5 +10,5 @@ impl liquid
 // Implementation for RGB
 impl rgb
 
-// Implementation
+// Implementation swap with PSBTs
 impl swap
