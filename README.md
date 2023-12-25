@@ -1,6 +1,6 @@
 # RGB & Liquid 🌊 🔴🟢🔵
 
-⚠️**Study proposal**
+⚠️**Study proposal and PoC**
 
 PoC for RGB and Liquid on DEX
 
