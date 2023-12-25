@@ -12,4 +12,5 @@ impl liquid
 impl rgb
 
 // Implementation swap with PSBTs
-impl swap
+impl swap [(&swap, &rgbpsbt]
+
