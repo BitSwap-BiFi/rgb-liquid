@@ -8,8 +8,10 @@ Based on RGB Core v0.11
 
 ## How works
 
-Soon
-
+- Alice send for Bob token into Liquid to RGB using PSBT
+- Both verify UTXOs between Liquid and RGB
+- Later Bob receive USDT from Liquid and Alice USDT from RGB
+  
 ## To-Do's
 
 - [ ] Anchor Liquid and Contract
