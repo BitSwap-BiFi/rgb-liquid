@@ -16,6 +16,8 @@ Soon
 - [ ] VM
 - [ ] Validation
 - [ ] Basic swap functions with LP and PSBTs
+- [ ] FOSS
+- [] Verify and fix issues
 
 ## Disclaimer
 
