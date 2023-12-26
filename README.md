@@ -17,7 +17,7 @@ Soon
 - [ ] Validation
 - [ ] Basic swap functions with LP and PSBTs
 - [ ] FOSS
-- [] Verify and fix issues
+- [ ] Verify and fix issues
 
 ## Disclaimer
 
