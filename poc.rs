@@ -6,11 +6,12 @@ use rgb_core::Contract::Anchor::Bitcoin;
 use rgb_core::Contract::Anchor::PSBT;
 
 // Implementation for Liquid
-impl liquid 
+impl liquid [(&swap, &contract, &anchor)]
 
 // Implementation for RGB
-impl rgb
+impl rgb 
 
 // Implementation swap with PSBTs
 impl swap [(&swap, &rgbpsbt]
+
 
