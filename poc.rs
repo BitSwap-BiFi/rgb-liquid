@@ -9,7 +9,7 @@ use rgb_core::Contract::Anchor::PSBT;
 impl liquid [(&swap, &contract, &anchor)]
 
 // Implementation for RGB
-impl rgb 
+impl rgb [(&swap, &contract, &anchor, &rgbpsbt)]
 
 // Implementation swap with PSBTs
 impl swap [(&swap, &rgbpsbt]
