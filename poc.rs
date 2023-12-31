@@ -3,7 +3,7 @@ use std::rgb_core;
 use rgb_core::Chain::Liquid;
 use rgb_core::Contract::Anchor::Liquid;
 use rgb_core::Contract::Anchor::Bitcoin;
-use rgb_core::Contract::Anchor::PSBT;
+use rgb_core::Contract::Anchor::PSBT;        use rgb_core::Contract::XChain::BitcoinTestnet;  use rgb_core::Contract::XChain::LiquidTestnet;
 
 // Implementation for Liquid
 impl liquid [(&swap, &contract, &anchor)]
