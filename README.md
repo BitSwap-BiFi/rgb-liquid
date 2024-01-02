@@ -6,13 +6,13 @@ PoC for RGB and Liquid on DEX
 
 Based on RGB Core v0.11
 
-## How works
+### How works
 
 - Alice send for Bob token into Liquid to RGB using PSBT
 - Both verify UTXOs between Liquid and RGB
 - Later Bob receive USDT from Liquid and Alice USDT from RGB
 
-## What's necessary for this happen?
+### What's necessary for this happen?
 
 TBD
   
