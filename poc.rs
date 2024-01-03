@@ -9,6 +9,8 @@ use rgb_core::Contract::XChain::LiquidTestnet;
 
 // Implementation for Liquid
 impl liquid [(&swap, &contract, &anchor)]
+BitcoinTestnet
+LiquidTestnet
 
 // Implementation for RGB
 impl rgb [(&swap, &contract, &anchor, &rgbpsbt)]
