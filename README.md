@@ -18,7 +18,8 @@ TBD
   
 ## To-Do's
 
-- [ ] Anchor Liquid and Contract
+- [x] Anchor Liquid and Contract
+- [x] Xchain
 - [ ] VM
 - [ ] Validation
 - [ ] Basic swap functions with LP and PSBTs
