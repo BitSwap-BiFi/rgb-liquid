@@ -7,10 +7,14 @@ use rgb_core::Contract::Anchor::PSBT;
 use rgb_core::Contract::XChain::BitcoinTestnet; 
 use rgb_core::Contract::XChain::LiquidTestnet;
 
+// Function network
+fn network() =
+Bitcoin::BitcoinTestnet::XChain;
+Liquid::LiquidTestnet::XChain;
+  
 // Implementation for Liquid
 impl liquid [(&swap, &contract, &anchor)]
-BitcoinTestnet
-LiquidTestnet
+
 
 // Implementation for RGB
 impl rgb [(&swap, &contract, &anchor, &rgbpsbt)]
