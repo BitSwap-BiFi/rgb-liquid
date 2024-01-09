@@ -8,10 +8,10 @@ use rgb_core::Contract::XChain::BitcoinTestnet;
 use rgb_core::Contract::XChain::LiquidTestnet;
 
 // Function network
-fn network() =
+fn network() {
 Bitcoin::BitcoinTestnet::XChain;
 Liquid::LiquidTestnet::XChain;
-  
+}
 // Implementation for Liquid
 impl liquid [(&swap, &contract, &anchor)]
 
