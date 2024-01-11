@@ -11,7 +11,7 @@ use rgb_core::Contract::XChain::LiquidTestnet;
 fn network() {
 Bitcoin::BitcoinTestnet::XChain;
 Liquid::LiquidTestnet::XChain;
-}
+};
 // Implementation for Liquid
 impl liquid [(&swap, &contract, &anchor)]
 
