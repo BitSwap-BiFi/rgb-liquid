@@ -14,6 +14,7 @@ Liquid::LiquidTestnet::XChain;
 };
 // Implementation for Liquid
 impl liquid [(&swap, &contract, &anchor)]
+fn liquid 
 
 
 // Implementation for RGB
