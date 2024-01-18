@@ -14,13 +14,19 @@ Liquid::LiquidTestnet::XChain;
 };
 // Implementation for Liquid
 impl liquid [(&swap, &contract, &anchor)]
-fn liquid 
+fn liquid () {
+  AlterLayer1 = {
 
 
 // Implementation for RGB
 impl rgb [(&swap, &contract, &anchor, &rgbpsbt)]
+  fn swap
+  fn contract
+  fn anchor
+  fn rgbpsbt
 
 // Implementation swap with PSBTs
 impl swap [(&swap, &rgbpsbt]
-
+fn swap
+fn rgbpsbt
 
