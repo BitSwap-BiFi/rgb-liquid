@@ -6,6 +6,7 @@ use rgb_core::Contract::Anchor::Bitcoin;
 use rgb_core::Contract::Anchor::PSBT;        
 use rgb_core::Contract::XChain::BitcoinTestnet; 
 use rgb_core::Contract::XChain::LiquidTestnet;
+use bp_core::Consensus::Liquid;
 
 // Function network
 fn network() {
@@ -16,6 +17,7 @@ Liquid::LiquidTestnet::XChain;
 impl liquid [(&swap, &contract, &anchor)]
 fn liquid () {
   AlterLayer1 = {
+    
 
 
 // Implementation for RGB
