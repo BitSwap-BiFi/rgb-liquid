@@ -17,6 +17,7 @@ Liquid::LiquidTestnet::XChain;
 impl liquid [(&swap, &contract, &anchor)]
 fn liquid () {
   AlterLayer1 = {
+    Liquid
     
 
 
