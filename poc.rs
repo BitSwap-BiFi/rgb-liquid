@@ -16,10 +16,12 @@ Liquid::LiquidTestnet::XChain;
 // Implementation for Liquid
 impl liquid [(&swap, &contract, &anchor)]
 fn liquid () {
-  AlterLayer1 = {
-    Liquid
-    
-
+  let vtxo = let vtxo;
+  let uxto = let utxo;
+  let psbt = let psbt;
+  let liquid_asset = let liquid_asset;
+  let contractid = let contractid;
+  
 
 // Implementation for RGB
 impl rgb [(&swap, &contract, &anchor, &rgbpsbt)]
