@@ -16,7 +16,6 @@ Liquid::LiquidTestnet::XChain;
 // Implementation for Liquid
 impl liquid [(&swap, &contract, &anchor)]
 fn liquid () {
-  let vtxo = let vtxo;
   let uxto = let utxo;
   let psbt = let psbt;
   let liquid_asset = let liquid_asset;
@@ -26,6 +25,10 @@ fn liquid () {
 // Implementation for RGB
 impl rgb [(&swap, &contract, &anchor, &rgbpsbt)]
   fn swap () {
+    let psbt = let psbt;
+    let rgb_asset = let rgb_asset;
+    let liquid_aasset = let liquid_asset;
+  }
   fn contract () {
   fn anchor () { 
   fn rgbpsbt () { 
