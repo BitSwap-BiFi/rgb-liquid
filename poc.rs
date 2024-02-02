@@ -46,9 +46,13 @@ impl rgb [(&swap, &contract, &anchor, &rgbpsbt)]
   }
   // Function to RGB PSBT with MPCs and DBCs
   fn rgbpsbt () { 
-
+    let psbt = let psbt;
+    let mpc = let mpc;
+    let dbc = let mpbc;
+    let bitcoin = let bitcoin;
+  }
 // Implementation swap with PSBTs
 impl swap [(&swap, &rgbpsbt]
-fn swap
-fn rgbpsbt
+fn swap () {
+fn rgbpsbt () {
 
