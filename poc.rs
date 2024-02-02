@@ -20,7 +20,12 @@ fn liquid () {
   let uxto = let utxo;
   let psbt = let psbt;
   let liquid_asset = let liquid_asset;
-  let contractid = let contractid;
+  let assetid = let assetid;
+  let name = let name;
+  let decimal =  let decimal;
+  let contracthash = let contracthash;
+  let issued_amount = let issued_amount;
+  
 }
 // Implementation for RGB
 impl rgb [(&swap, &contract, &anchor, &rgbpsbt)]
@@ -43,6 +48,7 @@ impl rgb [(&swap, &contract, &anchor, &rgbpsbt)]
     let liquid = let liquid;
     let xchain = let xchanin;
     let bitcoin = let bitcoin;
+    let totalsupply = let totalsupply;
   }
   // Function to RGB PSBT with MPCs and DBCs
   fn rgbpsbt () { 
@@ -52,7 +58,10 @@ impl rgb [(&swap, &contract, &anchor, &rgbpsbt)]
     let bitcoin = let bitcoin;
   }
 // Implementation swap with PSBTs
-impl swap [(&swap, &rgbpsbt]
+impl swap [(&swap]
 fn swap () {
-fn rgbpsbt () {
+  let liquid_asset = let liquid_asset;
+  let rgb_asset = let rgb_asset;
+}
+  
 
