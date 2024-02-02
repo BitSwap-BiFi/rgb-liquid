@@ -18,8 +18,11 @@ All script can be locked in a coveant script on Liquid side and then burn asset 
 
 ### What's necessary for this happen?
 
-TBD
-  
+ - Centralized bridges and issuers allow verify UTXOs among parties
+ - Liquidity constant to tokens of Liquid and RGB,which is powered by PSBT
+ - Run Liquid Node or if necessary become member of the Federation
+
+   
 ## To-Do's
 
 - [x] Anchor Liquid and Contract
