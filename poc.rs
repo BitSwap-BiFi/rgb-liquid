@@ -38,6 +38,10 @@ impl rgb [(&swap, &contract, &anchor, &rgbpsbt)]
     let assetid = let assetid;
   }
   fn anchor () { 
+    let liquid = let liquid;
+    let xchain = let xchanin;
+    let bitcoin = let bitcoin;
+  }
   fn rgbpsbt () { 
 
 // Implementation swap with PSBTs
