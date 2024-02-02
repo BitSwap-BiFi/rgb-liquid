@@ -15,7 +15,7 @@ Liquid::LiquidTestnet::XChain;
 };
 // Implementation for Liquid
 impl liquid [(&swap, &contract, &anchor)]
-
+// Functions from Liquid side
 fn liquid () {
   let uxto = let utxo;
   let psbt = let psbt;
