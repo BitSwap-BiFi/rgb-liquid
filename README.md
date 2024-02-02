@@ -14,7 +14,7 @@ Based on RGB Core v0.11
 
 *Obsevation*
 
-All script can be locked in a coveant script on Liquid side and then burn asset between Alice and Bob
+*All script can be locked in a coveant script on Liquid side and then burn asset between Alice and Bob*
 
 ### What's necessary for this happen?
 
