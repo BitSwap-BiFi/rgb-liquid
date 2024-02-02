@@ -22,15 +22,6 @@ Based on RGB Core v0.11
  - Liquidity constant to tokens of Liquid and RGB,which is powered by PSBT
  - Run Liquid Node or if necessary become member of the Federation
 
-   
-## To-Do's
-
-- [x] Anchor Liquid and Contract
-- [x] Xchain
-- [x] VM
-- [x] Validation
-- [x] Basic swap functions with LP and PSBTs
-
 ## Disclaimer
 
 This is only for study proposal in future integrations
