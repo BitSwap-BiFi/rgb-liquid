@@ -12,6 +12,10 @@ Based on RGB Core v0.11
 - Both verify UTXOs between Liquid and RGB
 - Later Bob receive USDT from Liquid and Alice USDT from RGB
 
+*Obsevation*
+
+All script can be locked in a coveant script on Liquid side and then burn asset between Alice and Bob
+
 ### What's necessary for this happen?
 
 TBD
@@ -23,7 +27,6 @@ TBD
 - [x] VM
 - [x] Validation
 - [x] Basic swap functions with LP and PSBTs
-- [ ] Verify and fix issues
 
 ## Disclaimer
 
