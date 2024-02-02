@@ -22,7 +22,6 @@ fn liquid () {
   let liquid_asset = let liquid_asset;
   let contractid = let contractid;
 }
-
 // Implementation for RGB
 impl rgb [(&swap, &contract, &anchor, &rgbpsbt)]
 
@@ -34,7 +33,7 @@ impl rgb [(&swap, &contract, &anchor, &rgbpsbt)]
   fn contract () {
     let contract = let contract;
     let rgb_asset = let rgb_asset;
-    let lidquid_asset = let liquid_asset;
+    let liquid_asset = let liquid_asset;
     let contractid = let contractid;
     let assetid = let assetid;
   }
