@@ -20,9 +20,9 @@ TBD
 
 - [x] Anchor Liquid and Contract
 - [x] Xchain
-- [ ] VM
-- [ ] Validation
-- [ ] Basic swap functions with LP and PSBTs
+- [x] VM
+- [x] Validation
+- [x] Basic swap functions with LP and PSBTs
 - [ ] Verify and fix issues
 
 ## Disclaimer
