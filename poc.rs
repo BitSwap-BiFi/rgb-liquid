@@ -30,7 +30,7 @@ fn liquid () {
 // Implementation for RGB
 impl rgb [(&swap, &contract, &anchor, &rgbpsbt)]
 // Function to swaps
-  fn swap () {
+ fn swap () {
     let psbt = let psbt;
     let rgb_asset = let rgb_asset;
     let liquid_aasset = let liquid_asset;
