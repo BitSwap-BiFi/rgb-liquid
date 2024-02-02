@@ -24,12 +24,13 @@ fn liquid () {
 }
 // Implementation for RGB
 impl rgb [(&swap, &contract, &anchor, &rgbpsbt)]
-
+// Function to swaps
   fn swap () {
     let psbt = let psbt;
     let rgb_asset = let rgb_asset;
     let liquid_aasset = let liquid_asset;
   }
+  // Function to swaps
   fn contract () {
     let contract = let contract;
     let rgb_asset = let rgb_asset;
@@ -37,11 +38,13 @@ impl rgb [(&swap, &contract, &anchor, &rgbpsbt)]
     let contractid = let contractid;
     let assetid = let assetid;
   }
+  // Function to anchor between Bitcoin layers and testnets
   fn anchor () { 
     let liquid = let liquid;
     let xchain = let xchanin;
     let bitcoin = let bitcoin;
   }
+  // Function to RGB PSBT with MPCs and DBCs
   fn rgbpsbt () { 
 
 // Implementation swap with PSBTs
