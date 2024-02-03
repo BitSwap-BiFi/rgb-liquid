@@ -20,6 +20,7 @@ Based on RGB Core v0.11
 
  - Centralized bridges and issuers allow verify UTXOs among parties
  - Liquidity constant to tokens of Liquid and RGB,which is powered by PSBT
+ - Secondary issue assets from [RGB side](htps://github.com/RGB-WG/rgb-schemata/issues/20)
  - Run Liquid Node or if necessary become member of the Federation
 
 ## Disclaimer
