@@ -6,4 +6,4 @@ edition = "2018"
 
 
 [dependencies]
-rgb-core = "0.11.0-beta.4"
+rgb-core = "0.11.0-beta.6"
